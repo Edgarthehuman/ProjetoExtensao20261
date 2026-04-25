@@ -26,5 +26,5 @@ a1: Gestão de Equipes -
 
 #estamos usando o trllo como repositorio
 
-
+https://trello.com/invite/b/69ecde2d1ecc4f47e0c4a38a/ATTI1cb9bdf2aa5071326bfffc72b91e599f20F4D90E/clinica
  
