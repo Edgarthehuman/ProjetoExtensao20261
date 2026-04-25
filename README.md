@@ -18,7 +18,7 @@ a1: Gestão de Equipes -
 
  #Sobre o Projeto
 
- <img src="clinica">
+ <img src="clinica.jpg">
  
 ## O projeto foca em criar um sistema de cadastro eficaz para cadastro de pacientes em clinicas medicas.
 
