@@ -10,9 +10,13 @@ a1: Gestão de Equipes -
  #Titulo: PROJETO LOG CLINIC
  ## Menbros do  grupo
  -Ruy Gustavo Santos de Souza
+ 
  -Edgar de Souza Pereira
+ 
  -Wendell Henrique Chaves de Lima
+ 
  -Ricardo Jose dos Santos
+ 
  -Pedro Henriqye
 
 
